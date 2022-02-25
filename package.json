@@ -1,0 +1,17 @@
+{
+  "name": "ts-ethers-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.19",
+    "ethers": "^5.5.4",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.5.0"
+  },
+  "scripts": {
+    "start": "ts-node ./src/sos-power.ts"
+  }
+}
